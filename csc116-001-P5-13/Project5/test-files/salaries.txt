@@ -1,0 +1,146 @@
+Accountants and auditors,51948,64272
+Advertising sales agents,45292,54132
+Architecture and engineering occupations,60216,73476
+Arts/design/entertainment/sports/media occupations,45240,53248
+Bailiffs/correctional officers/jailers,35724,39260
+Bakers,24388,26936
+Bartenders,23868,32968
+Bookkeeping/accounting/auditing clerks,34320,38064
+Building and grounds cleaning and maintenance occupations,21476,26884
+Bus drivers,30264,32032
+Business and financial operations occupations,51064,68120
+Business operations specialists(all other),49088,63908
+Butchers and other meat/poultry/fish processing workers,23764,27924
+Cashiers,20124,21424
+Chefs and head cooks,27612,31252
+Chief executives,81744,116792
+Civil engineers,66300,73112
+Claims adjusters/appraisers/examiners/investigators,47216,56836
+Clergy,39676,52364
+Clinical laboratory technologists and technicians,42536,45656
+Combined food preparation and serving workers (including fast food),19396,19968
+Community and social service occupations,42848,48568
+Compliance officers,56784,64324
+Computer and information systems managers,79508,91676
+Computer and mathematical occupations,60580,74620
+Computer occupations (all other),51168,58344
+Computer programmers,65156,75244
+Computer support specialists,43524,54548
+Computer systems analysts,65468,75920
+Construction and extraction occupations,35932,39364
+Cooks,21060,21632
+Counselors,43212,46020
+Credit counselors and loan officers,47580,61776
+Customer service representatives,31512,36296
+Data entry keyers,32136,34996
+Designers,42224,53040
+Diagnostic related technologists and technicians,48880,60112
+Dining room and cafeteria attendants and bartender helpers,21840,26468
+Dispatchers,34788,39728
+Driver/sales workers and truck drivers,28340,38428
+Education administrators,60892,74828
+Education/training/library occupations,46644,59332
+Electrical/electronics/electromechanical assemblers,26312,31096
+Elementary and middle school teachers,49712,56992
+Emergency medical technicians and paramedics,36868,41132
+Engineering technicians (except drafters),40820,55432
+Farming/fishing/forestry occupations,19500,23764
+Financial analysts,63648,77636
+Financial managers,58604,86892
+First-line supervisors of food preparation and serving workers,25220,30316
+First-line supervisors of housekeeping and janitorial workers,26000,37440
+First-line supervisors of non-retail sales workers,45656,52208
+First-line supervisors of office and administrative support workers,39676,47788
+First-line supervisors of production and operating workers,34268,48984
+First-line supervisors of retail sales workers,30940,41236
+Food preparation and serving related occupations,21788,24076
+Food preparation workers,20852,21372
+Food service managers,30940,41912
+General and operations managers,59072,70200
+Health practitioner support technologists and technicians,32136,32136
+Healthcare practitioners and technical occupations,51116,65312
+Healthcare support occupations,25584,29120
+Human resources managers,67600,95004
+Human resources workers,47424,65364
+Inspectors/testers/sorters/samplers/weighers,30056,42640
+Installation/maintenance/repair occupations,37700,42848
+Insurance claims and policy processing clerks,32864,36868
+Insurance sales agents,36296,49192
+Janitors and building cleaners,21580,28080
+Laborers and freight/stock/material movers (hand),24752,28392
+Lawyers,82680,99580
+Legal occupations,52052,91780
+Licensed practical and licensed vocational nurses,38324,45136
+Life/physical/social science occupations,55224,64844
+Maids and housekeeping cleaners,20800,21008
+Management analysts,64428,86580
+Management occupations,58604,75608
+Management/business/financial operations occupations,54912,73632
+Management/professional/related occupations,51012,69992
+Managers (all other),59956,73424
+Market research analysts and marketing specialists,52104,65988
+Marketing and sales managers,59800,84448
+Medical and health services managers,63180,75296
+Medical scientists,59332,75348
+Metal workers/plastic workers (all other),26572,33644
+Miscellaneous agricultural workers,19188,22724
+Miscellaneous assemblers and fabricators,26312,32916
+Miscellaneous life/physical/social science technicians,41860,45344
+Natural resources/construction/maintenance occupations,26468,39728
+Nursing/psychiatric/home health aides,24232,27456
+Office and administrative support occupations,33124,36452
+Office and administrative support workers (all other),35984,45656
+Office clerks (general),32552,34424
+Operations research analysts,64116,75764
+Other teachers and instructors,40144,56992
+Packaging and filling machine operators and tenders,24804,27144
+Packers and packagers (hand),20540,23868
+Personal care aides,22100,24180
+Personal care and service occupations,23660,31564
+Personal financial advisors,52208,85124
+Pharmacists,98904,113152
+Physical scientists (all other),65624,80444
+Physical therapists,67964,76856
+Physicians and surgeons,64792,104104
+Police and sheriff's patrol officers,38636,54236
+Postal service mail carriers,44252,53300
+Postsecondary teachers,59436,73268
+Production occupations,26104,36972
+Production workers (all other),25584,35152
+Production/planning/expediting clerks,38376,53248
+Production/transportation/material moving occupations,26208,35828
+Professional and related occupations,49296,66872
+Property/real estate/community association managers,44980,50752
+Protective service occupations,32084,46072
+Purchasing agents (except wholesale/retail/farm products),46644,54808
+Purchasing managers,66352,71032
+Real estate brokers and sales agents,37752,51532
+Receptionists and information clerks,27664,32032
+Recreation and fitness workers,27092,37232
+Registered nurses,55952,61880
+Retail salespersons,25532,36296
+Sales and office occupations,32240,39832
+Sales and related occupations,29640,43732
+Sales and related workers (all other),34528,49348
+Sales representatives/services (all other),39832,51272
+Sales representatives (wholesale and manufacturing),45396,58240
+Secondary school teachers,51168,57616
+Secretaries and administrative assistants,35620,42172
+Securities/commodities/financial services sales agents,45916,70512
+Security guards and gaming surveillance officers,26728,30628
+Service occupations,23972,30316
+Shipping/receiving/traffic clerks,29952,31356
+Social and community service managers,50856,59384
+Social workers,43628,46384
+Software developers (applications and systems software),75764,90272
+Special education teachers,51324,56056
+Stock clerks and order fillers,26728,26208
+Teacher assistants,25688,30160
+Tellers,26364,28288
+Total (full-time wage and salary workers),37388,45292
+Training and development specialists,49660,66560
+Transportation and material moving occupations,26520,34528
+Transportation/storage/distribution managers,43472,52728
+Waiters and waitresses,21580,26052
+Web developers,51376,64740
+Wholesale and retail buyers (except farm products),41912,50440
